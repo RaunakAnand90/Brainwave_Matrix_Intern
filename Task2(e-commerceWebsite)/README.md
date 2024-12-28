@@ -1,5 +1,4 @@
-# online-shopping-with-advanced-admin-page
-Updated version
+# online-shopping-app
 
 online shopping system is an e-commerce Website with both admin and user layouts.
 
