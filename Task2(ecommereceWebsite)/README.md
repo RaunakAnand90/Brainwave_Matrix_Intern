@@ -2,7 +2,7 @@
 # online-shopping-with-advanced-admin-page
 Updated version
 
-online shopping system is a [DBMS project] with both admin and user layouts.
+online shopping system is an e-commerece website with both admin and user layouts.
 
 # Installation
 
