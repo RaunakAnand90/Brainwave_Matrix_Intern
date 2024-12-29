@@ -20,7 +20,7 @@ online shopping system is an e-commerce Website with both admin and user layouts
 
 8. after creating database name click on import.
 
-9. browse the file in directory[online-shopping-system-with-advanced-admin-page/database/onlineshop.sql].
+9. browse the file in directory[online-shopping-system-master/database/onlineshop.sql].
 
 10. after importing successfully.
 
